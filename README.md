@@ -1,5 +1,5 @@
 # Final_project
-My final Data Science project, Used YOLO10 with Botsotr for tracking.
+My final Data Science project, Used YOLO10 with Botsotr for tracking and counting vehicle.
 
 
 Before using YOLO, you can place detection zones using "Detection_zones.ipynb" to count vehicles.
